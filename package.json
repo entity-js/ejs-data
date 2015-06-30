@@ -1,0 +1,17 @@
+{
+  "name": "ejs-data",
+  "description": "Provides 'data' utility.",
+  "keywords": [
+    "EntityJS - Utilities",
+    "Data manipulation"
+  ],
+  "author": "Orgun109uk <orgun109uk@gmail.com> (http://my-site.com/)",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/entity-js/ejs-data.git"
+  },
+  "scripts": {
+    "test": "mocha ./tests/"
+  }
+}
